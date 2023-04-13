@@ -2,6 +2,8 @@
 
 Click on button to generate new data and see how the bar chart gets animated
 
+![](https://github.com/venikanya/animated-bar-chart/blob/main/sample-animated-bar-chart.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
